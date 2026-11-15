@@ -1,0 +1,153 @@
+{
+  "pack_version": 2,
+  "minecraft": "26.3",
+  "loader": "fabric",
+  "launcher_version": "1.0.0",
+  "launcher_download_url": "https://github.com/naicogg6-coder/naicogg-launcher/releases/latest",
+  "launcher_setup_url": "https://github.com/naicogg6-coder/naicogg-launcher/releases/latest/download/naicogg-launcher-setup.exe",
+  "base_url": "https://naicogg6-coder.github.io/naicogg-launcher/",
+  "files": [
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "size": 51
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "sha256": "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2",
+      "size": 76
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha256": "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de",
+      "size": 198
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "sha256": "bb0cebafc9b0a42caa1028049d5a889a925b94a32a9a533222760449c60cdb86",
+      "size": 4573
+    },
+    {
+      "path": "config/fancymenu/profile.json",
+      "sha256": "2db2d1c083eda27eaf74f64a539bee8e8d32b9b383f3d469e25310f697428f0e",
+      "size": 149
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha256": "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
+      "size": 9349
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha256": "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "sha256": "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498",
+      "size": 9329
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha256": "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26",
+      "size": 9359
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "sha256": "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153",
+      "size": 9331
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha256": "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a",
+      "size": 9361
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha256": "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311",
+      "size": 9345
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "sha256": "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
+      "size": 9343
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "sha256": "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "size": 23
+    },
+    {
+      "path": "mods/CustomSkinLoader_Universal-15.1.jar",
+      "sha256": "c8769a38b3cc1da2a7b2f5827d1a53a24cd1ef6d0784b1eb545569f5882a2ffb",
+      "size": 222917
+    },
+    {
+      "path": "mods/fabric-api-0.166.0-26.3.jar",
+      "sha256": "7d044e7ab67650257f8a3853aa1e94c6c04ed652cd150a0a88926ef71ae51a7b",
+      "size": 1797522
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.10.0_MC_26.3.jar",
+      "sha256": "51dcbe820b2c56f8b573b44e21335793f529ddd6c7cc360a8839432f9263fc47",
+      "size": 37217009
+    },
+    {
+      "path": "mods/ismah-6.1.1-fabric+26.3.jar",
+      "sha256": "959bb11ed5f76ba502423c0db35b151faf1e9307b1d141bd1635c498066a304f",
+      "size": 50950
+    },
+    {
+      "path": "mods/konkrete_fabric_1.11.1_MC_26.3.jar",
+      "sha256": "5c5e4da4088929ab72859db7dfef88ee5f34e72d0d9322e59f33757a089a773e",
+      "size": 1214374
+    },
+    {
+      "path": "mods/melody_fabric_1.0.17_MC_26.3.jar",
+      "sha256": "c889a455aad7a6bcdc2fabfc690fcf87659f4ae64b4b9fd7a8705b4bdb313c67",
+      "size": 681316
+    },
+    {
+      "path": "mods/mensajesentradasalida-1.0.0.jar",
+      "sha256": "305af81be08f3f5d777ccc8fa7a195edbd2f011d153111aa0ff5993133e4ad46",
+      "size": 15922
+    },
+    {
+      "path": "mods/shield-parry-1.0.0.jar",
+      "sha256": "89d8894422530f15637fe19d3d82100711a2192149adc48d4ee0f97009ce8cc8",
+      "size": 14839
+    },
+    {
+      "path": "mods/spectatordeath-1.0.0.jar",
+      "sha256": "1395f9d3211e6d8785d86771b7f30c2172e61dd60e2a7fb52a317622e6f4588e",
+      "size": 76939
+    },
+    {
+      "path": "mods/spectatordeathmsg-1.0.0.jar",
+      "sha256": "6e4c6dbd8fd942b823840f9726115154718c2a3d0398a461dabad913a27151bb",
+      "size": 4731354
+    },
+    {
+      "path": "mods/watermedia-3.0.1-fabric-26.3.jar",
+      "sha256": "ca547208a6be0f78e1ae46a34fafce5dd49a0e9028693db7b51ecd1ffff348b4",
+      "size": 3331209
+    }
+  ],
+  "launcher_files": [
+    {
+      "path": "theme.json",
+      "sha256": "d8875b2313d51af9128a2ebbaed65e08a1c34e9c9f66edbfdb77e3eb7077f3a3",
+      "size": 553
+    }
+  ]
+}
