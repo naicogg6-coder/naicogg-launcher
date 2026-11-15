@@ -1,0 +1,24 @@
+{
+  "titulo_ventana": "naicogg`s launcher",
+  "titulo_texto": "NAICOGG`S LAUNCHER",
+  "subtitulo": "Bienvenido jugador",
+  "ancho": 860,
+  "alto": 600,
+  "modo": "dark",
+  "fuente": "Segoe UI",
+  "imagen_fondo": "",
+  "colores": {
+    "fondo": "#14161c",
+    "panel": "#1d2029",
+    "texto": "#e8eaf0",
+    "acento": "#4ade80",
+    "acento_hover": "#22c55e",
+    "texto_boton": "#08130c"
+  },
+  "radio_bordes": 12,
+  "botones": {
+    "jugar": "JUGAR",
+    "instalar_fancymenu": "Instalar FancyMenu",
+    "abrir_carpeta": "Abrir carpeta del juego"
+  }
+}
